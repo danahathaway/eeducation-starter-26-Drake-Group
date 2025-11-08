@@ -4,6 +4,7 @@ static void __encoder_isr_a(void* ctx) {
     encoder_t* enc = (encoder_t*)ctx;
 
     // What do we do now? We have spun in a certain direction
+    //
 }
 
 static void __encoder_isr_b(void* ctx) {
